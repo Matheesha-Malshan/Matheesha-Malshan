@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matheesha Malshan.</h1>
-<h3 align="center">I am interested in ML</h3>
+<h1 align="center">Hi 👋, I'm Matheesha Malshan</h1>
+<h3 align="center">A interested in ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheesha-malshan&label=Profile%20views&color=0e75b6&style=flat" alt="matheesha-malshan" /> </p>
 
